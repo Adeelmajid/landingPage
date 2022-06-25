@@ -1,0 +1,70 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+.bg-red{
+    background: red;
+}
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.flex{
+    display: flex;
+}
+.family{
+    font-family: 'Ubuntu', sans-serif;
+}
+.item-center{
+    align-items: center;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.justify-center{
+    justify-content: center;
+}
+.flex-col{
+    flex-direction: column;
+}
+.font-size{
+    font-size: 1.3rem;
+}
+.font-bold{
+    font-weight: bolder;
+}
+.my-1{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.px-2{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.text-blue{
+    color: rgb(226 73 55);
+}
+.btn{
+    padding: 6px 12px;
+    border: 2px solid white;
+    background-color: rgb(226 73 55);
+    border-radius: 6px;
+    color: white;
+    cursor: pointer;
+}
+/* .overflow-hidden{
+    overflow-x: hidden;
+} */
+.text-center{
+    text-align: center;
+}
+.topright .gymImg{
+    height: 420px;
+}
+.my-2{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.highlighted{
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
